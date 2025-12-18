@@ -79,15 +79,15 @@ pip install -r requirements.txt
 
 ## Requirements Met
 
-✅ Built on midterm project foundation  
-✅ Implemented PySpark structured streaming  
-✅ Medallion architecture (Bronze/Silver/Gold)  
-✅ Multiple data sources (JSON, CSV, programmatic)  
-✅ Star schema with dimension/fact tables  
-✅ 7 analytical queries with multi-table joins  
-✅ Business intelligence insights
+- Built on midterm project foundation  
+- Implemented PySpark structured streaming  
+- Medallion architecture (Bronze/Silver/Gold)  
+- Multiple data sources (JSON, CSV, programmatic)
+- Star schema with dimension/fact tables
+- 7 analytical queries with multi-table joins
+- Business analytical insights
 
 ## Author
 Simon Alam  
 University of Virginia  
-simon.alam@example.edu
+nnd4zb@virginia.edu
