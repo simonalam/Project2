@@ -1,0 +1,45 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Output data (generated when running notebooks)
+lakehouse/
+spark-warehouse/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# PySpark logs and metadata
+derby.log
+metastore_db/
+*.log
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
