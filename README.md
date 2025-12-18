@@ -72,16 +72,16 @@ pip install -r requirements.txt
 
 ## Key Results
 
-- **Total Revenue:** $238,370.50
+- **Total Revenue:** $430,952.00
 - **Total Customers:** 166
 - **Total Transactions:** 3,400
-- **Average Order Value:** $93.57
+- **Average Order Value:** $126.75
 
 ### Business Insights
-- Loyalty members generate 2.4x more revenue than non-members
-- Accessories is top category ($63,996 revenue)
-- Peak sales months: September, May, March
-- Hartford, CT has highest customer lifetime value ($238.53/customer)
+- Loyalty Program Impact: Members ("Yes") generate $235,866.00 in revenue compared to $195,086.00 for non-members.
+- Top 3 Categories by Revenue: 1. Accessories: $102,848.00 2. Tops: $97,113.00 3. Bottoms: $62,541.00
+- Highest Revenue per Customer: Portland leads geographic LTV at $5,519.50 per customer.
+- High-Value Performance: Accessories in the Fall/Winter season (Q2) produced the highest quarterly category revenue at $14,408.00.
 
 ## Requirements Met
 
